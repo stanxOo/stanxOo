@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stanxOo
+- 👀 I’m interested in video games, sport, good books
+- 🌱 I’m currently learning JS
+- 📫 How to reach me: discord Stanx#7877
